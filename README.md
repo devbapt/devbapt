@@ -18,8 +18,8 @@
 - Projects that promote accessibility and inclusivity
 
 ## 📫 How to reach me
-- Email: devbapt@protonmail.com *(ou ton vrai email si tu préfères)*
-- LinkedIn: [linkedin.com/in/baptiste-faux][(https://linkedin.com/in/baptiste-faux)]
+- Email: devbapt@protonmail.com 
+- LinkedIn: (https://linkedin.com/in/baptiste-faux)]
 
 ## 😄 Pronouns
 He/Him *(ou adapte selon ton genre/préférence)*
